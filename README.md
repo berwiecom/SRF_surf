@@ -1,6 +1,31 @@
 # SRF_surf
 SRF = surf: urls
 
+---
+https://zeit.co/daschia
+
+https://zeit.co/guides/deploying-hugo-with-now/###HUGO
+
+https://www.gitpod.io/
+
+https://formalize.me/
+
+https://www.sitepoint.com/cool-things-codepen-javascript/
+
+https://guides.github.com/activities/hello-world/
+
+https://www.vandelaydesign.com/best-80s-resources/
+
+https://github.com/anaibol/awesome-serverless
+
+https://getcrunch.co/#specifications
+
+https://github.com/remarkjs/remark
+
+https://css-tricks.com/nerds-guide-color-web/###CODE+EMBEDDING+IN+HTML
+
+https://sparklecss.herokuapp.com/documentation/components###CLASSES+MAKE+DESIGN
+---
 
 CODE playgrounds online 
 - http://jsbin.com/###CONSOLE
