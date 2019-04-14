@@ -110,7 +110,7 @@ CMD
 @client:$ nc -q 5 localhost 1234                                 # -d: wait 5 sec after EOF
 echo Banane
 ```
-- CMD
+CMD
 ```
 @server:$                  nc  -k         -l  1234 > TARGETFILE  # -k: no close
 @client:$ cat SOURCEFILE | nc [-d]  localhost 1234               # -d: stdin disabled
