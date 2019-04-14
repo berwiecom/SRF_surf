@@ -101,9 +101,10 @@ Weather in CLI
 
 ------------------------------------------------------------------------
 
-Netcat
-- https://www.thegeekstuff.com/2012/04/nc-command-examples/
-- CMD
+Netcat  
+https://www.thegeekstuff.com/2012/04/nc-command-examples/
+
+CMD
 ```
 @server:$ nc             -l 1234
 @client:$ nc -q 5 localhost 1234                                 # -d: wait 5 sec after EOF
