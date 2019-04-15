@@ -24,28 +24,40 @@ https://css-tricks.com/nerds-guide-color-web/###CODE+EMBEDDING+IN+HTML
 
 https://sparklecss.herokuapp.com/documentation/components###CLASSES+MAKE+DESIGN
 
----
+------------------------------------------------------------------------
 
 CODE playgrounds online 
 
-- http://jsbin.com/###CONSOLE
+- http://jsbin.com/###+CONSOLE
 - http://codepen.io/
 - http://jsfiddle.net/
-- http://dabblet.com/###AUTOPREFIXES+CSS
-- https://css-tricks.com/forums/topic/codepen-jsfiddle-jsbin/#post-134290###PROsnCONS
+- http://dabblet.com/###+AUTOPREFIXES+CSS
+- https://css-tricks.com/forums/topic/codepen-jsfiddle-jsbin/#post-134290###+PROsnCONS
 - http://cssdeck.com/
-- http://plnkr.co/###ADD+MULTIPLE+FILES_BACKEND
-- http://liveweave.com/###LIVE+PREVIEW_EXTERNAL+LIBRARIES
+- http://plnkr.co/###+ADD+MULTIPLE+FILES_BACKEND
+- http://liveweave.com/###+LIVE+PREVIEW_EXTERNAL+LIBRARIES
 - https://codesandbox.io/
-- http://scratchpad.io/###INSTANT+HTMLCSS
-- http://esnextb.in/###BROWSERIFY+CDN
-- http://glitch.com/###SUBDOMAIN_PRIVATE+VIRTUAL+MACHINE_NODEJS_AUTOMATICALLY+DEPLOY+TO+SERVER
-- https://webmaker.app/app/###OFFLINE_PREPROCESSORS_SAVE+HTML+OR+OPEN+CODEPEN_MARKDOWN
-- https://zeit.co/now###
+- http://scratchpad.io/###+INSTANT+HTMLCSS
+- http://esnextb.in/###+BROWSERIFY+CDN
+- http://glitch.com/###+SUBDOMAIN_PRIVATE+VIRTUAL+MACHINE_NODEJS_AUTOMATICALLY+DEPLOY+TO+SERVER
+- https://webmaker.app/app/###+OFFLINE_PREPROCESSORS_SAVE+HTML+OR+OPEN+CODEPEN_MARKDOWN
+- https://zeit.co/now###+
   - https://zeit.co/daschia
-  - https://zeit.co/guides/deploying-hugo-with-now/###HUGO
+  - https://zeit.co/guides/deploying-hugo-with-now/###+HUGO
 - https://github.com/remarkjs/remark
 - https://twitter.com/notquiteleo
+
+------------------------------------------------------------------------
+
+GIT-ANNEX: MANAGING (big) FILES / KEEP TRACK / symLINKS & OFFLINE
+
+https://git-annex.branchable.com/###+USE+CASE
+
++ keybase filesystem kbfs
+https://rychly.gitlab.io/post/keybase/
+
+vs rsync
+https://git-annex.branchable.com/special_remotes/directory/
 
 ------------------------------------------------------------------------
 
