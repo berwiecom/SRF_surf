@@ -3,9 +3,6 @@
 SRF: urls
 
 ---
-https://zeit.co/daschia
-
-https://zeit.co/guides/deploying-hugo-with-now/###HUGO
 
 https://www.gitpod.io/
 
@@ -30,6 +27,7 @@ https://sparklecss.herokuapp.com/documentation/components###CLASSES+MAKE+DESIGN
 ---
 
 CODE playgrounds online 
+
 - http://jsbin.com/###CONSOLE
 - http://codepen.io/
 - http://jsfiddle.net/
@@ -44,9 +42,16 @@ CODE playgrounds online
 - http://glitch.com/###SUBDOMAIN_PRIVATE+VIRTUAL+MACHINE_NODEJS_AUTOMATICALLY+DEPLOY+TO+SERVER
 - https://webmaker.app/app/###OFFLINE_PREPROCESSORS_SAVE+HTML+OR+OPEN+CODEPEN_MARKDOWN
 - https://zeit.co/now###
-  - https://zeit.co/guides/deploying-hugo-with-now/
+  - https://zeit.co/daschia
+  - https://zeit.co/guides/deploying-hugo-with-now/###HUGO
 - https://github.com/remarkjs/remark
 - https://twitter.com/notquiteleo
+
+------------------------------------------------------------------------
+
+SQLite Online
+
+- https://sqliteonline.com/
 
 ------------------------------------------------------------------------
 
@@ -70,9 +75,14 @@ CSS Frameworks Grid
 
 ------------------------------------------------------------------------
 
-Beautifier for Code
+HTML Beautifier for Code
+
 - http://beautifytools.com/html-beautifier.php
 - https://htmlformatter.com/###HTML
+
+HTML CSS Syntaxhighlighting
+
+- https://highlightjs.org/###INCLUDE+EXTERNAL+JAVASCRIPT
 
 ------------------------------------------------------------------------
 
@@ -95,6 +105,7 @@ MED.MSK Media Music
 ------------------------------------------------------------------------
 
 Weather in CLI
+
 - https://github.com/chubin/wttr.in
 - https://sohowww.nascom.nasa.gov/data/realtime/eit_195/
 - https://askubuntu.com/questions/390329/weather-from-terminal
@@ -102,6 +113,7 @@ Weather in CLI
 ------------------------------------------------------------------------
 
 Netcat  
+
 https://www.thegeekstuff.com/2012/04/nc-command-examples/
 
 CMD
@@ -119,12 +131,13 @@ CMD
 ------------------------------------------------------------------------
 
 CMS
-- http://picocms.org/
-- https://staticgen.com/
-- https://alternativeto.net/software/jekyll/
-- https://headlesscms.org/projects/netlify-cms
-- https://producthunt.com/posts/public-apis-ui
-- http://urubu.jandecaluwe.com/?ref=producthunt
+
+- https://STATICgen.com/#GENERATORS
+	- https://github.com/PICOcms/
+	- https://URUBU.jandecaluwe.com/
+	- https://alternativeto.net/software/JEKYLL/#ETC
+	- https://HEADLESSCMS.org/projects/netlify-cms
+	- https://producthunt.com/posts/public-apis-ui
 
 ------------------------------------------------------------------------
 
