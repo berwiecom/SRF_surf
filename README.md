@@ -8,11 +8,11 @@ https://www.gitpod.io/
 
 https://formalize.me/
 
-https://www.sitepoint.com/cool-things-codepen-javascript/
+https://sitepoint.com/cool-things-codepen-javascript/
 
 https://guides.github.com/activities/hello-world/
 
-https://www.vandelaydesign.com/best-80s-resources/
+https://vandelaydesign.com/best-80s-resources/
 
 https://github.com/anaibol/awesome-serverless
 
@@ -75,15 +75,15 @@ JOB CV
 
 CSS Frameworks Grid
 
-- https://responsivedesign.is/resources/frameworks/the-semantic-grid-system/###FRAMEWORKS
-- https://duckduckgo.com/?q=grid+generator###GRID-GENERATORS
-- https://github.com/joshuaclayton/blueprint-css/###BLUEPRINT
-- https://sparklecss.herokuapp.com/###SPARKLECSS
-- https://adapt.960.gs/
+- https://responsivedesign.is/resources/frameworks/the-semantic-grid-system/###..FRAMEWORKS
+- https://duckduckgo.com/?q=grid+generator###..GRID-GENERATORS
+- https://github.com/joshuaclayton/blueprint-css/###..BLUEPRINT
+- https://sparklecss.herokuapp.com/###..SPARKLECSS
+- https://adapt.960.gs
 - https://960.gs/###
 - https://www.vandelaydesign.com/?s=Grid+Based+Design
-- https://html5boilerplate.com/###????????????
-- https://javascriptgrid.org/###BOOKMARKLET
+- https://html5boilerplate.com/###..????????????
+- https://javascriptgrid.org/###..BOOKMARKLET
 
 ------------------------------------------------------------------------
 
@@ -98,62 +98,8 @@ HTML CSS Syntaxhighlighting
 
 ------------------------------------------------------------------------
 
-MED.MSK Media Music
-
-- msk.ost..better.call.saul https://www.youtube.com/watch?v=euonU8X6JK0
-- msk.ost..better.call.saul https://www.youtube.com/watch?v=58lb5ASBHP4
-- msk.ost..better.call.saul https://www.youtube.com/watch?v=6zXS8qVyfeY
-- msk.ost..better.call.saul https://www.youtube.com/watch?v=Y6RVlZ05iME
-- msk.ost..better.call.saul https://www.youtube.com/watch?v=FNUnLmUSjao
-- msk.ost..better.call.saul https://www.youtube.com/watch?v=3gM8_SL9BP0
-- msk.ost..better.call.saul https://www.youtube.com/watch?v=7rsuEOOo07Q
-- 
-- msk.ost..breaking.bad https://www.youtube.com/watch?v=2TdIjlNJh0Q
-- msk.ost..breaking.bad https://www.youtube.com/watch?v=BUmpTKXpIdM
-- msk.ost..breaking.bad https://www.youtube.com/watch?v=LH9jBYiYkxg
-- msk.ost..breaking.bad https://www.youtube.com/watch?v=R95f7VwXqIw
-- msk.ost..breaking.bad https://www.youtube.com/watch?v=wVUhcavxYYs
-
-------------------------------------------------------------------------
-
 Weather in CLI
 
 - https://github.com/chubin/wttr.in
 - https://sohowww.nascom.nasa.gov/data/realtime/eit_195/
 - https://askubuntu.com/questions/390329/weather-from-terminal
-
-------------------------------------------------------------------------
-
-Netcat  
-
-https://www.thegeekstuff.com/2012/04/nc-command-examples/
-
-CMD
-```
-@server:$ nc             -l 1234
-@client:$ nc -q 5 localhost 1234                                 # -d: wait 5 sec after EOF
-echo Banane
-```
-CMD
-```
-@server:$                  nc  -k         -l  1234 > TARGETFILE  # -k: no close
-@client:$ cat SOURCEFILE | nc [-d]  localhost 1234               # -d: stdin disabled
-```
-
-------------------------------------------------------------------------
-
-CMS
-
-- https://STATICgen.com/#GENERATORS
-	- https://github.com/PICOcms/
-	- https://URUBU.jandecaluwe.com/
-	- https://alternativeto.net/software/JEKYLL/#ETC
-	- https://HEADLESSCMS.org/projects/netlify-cms
-	- https://producthunt.com/posts/public-apis-ui
-
-------------------------------------------------------------------------
-
-
-
-
-
