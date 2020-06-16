@@ -4,9 +4,9 @@ SRF: urls
 
 ---
 
-https://www.gitpod.io/
+https://gitpod.io/###..WEB.DVL..ready-to-code.dev.env.for.git
 
-https://formalize.me/
+https://formalize.me/###..WEB.DVL..form.styling
 
 https://sitepoint.com/cool-things-codepen-javascript/
 
@@ -20,32 +20,31 @@ https://getcrunch.co/#specifications
 
 https://github.com/remarkjs/remark
 
-https://css-tricks.com/nerds-guide-color-web/###CODE+EMBEDDING+IN+HTML
+https://css-tricks.com/nerds-guide-color-web/###..WEB.DVL..code.embedding.in.html
 
-https://sparklecss.herokuapp.com/documentation/components###CLASSES+MAKE+DESIGN
+https://sparklecss.herokuapp.com/documentation/components###..CLASSES+MAKE+DESIGN
 
 ------------------------------------------------------------------------
 
 CODE playgrounds online 
 
-- http://jsbin.com/###+CONSOLE
-- http://codepen.io/
-- http://jsfiddle.net/
-- http://dabblet.com/###+AUTOPREFIXES+CSS
-- https://css-tricks.com/forums/topic/codepen-jsfiddle-jsbin/#post-134290###+PROsnCONS
-- http://cssdeck.com/
-- http://plnkr.co/###+ADD+MULTIPLE+FILES_BACKEND
-- http://liveweave.com/###+LIVE+PREVIEW_EXTERNAL+LIBRARIES
+- http://cssdeck.com/###..NO.HTTPS
+- https://codepen.io/
 - https://codesandbox.io/
-- http://scratchpad.io/###+INSTANT+HTMLCSS
-- http://esnextb.in/###+BROWSERIFY+CDN
-- http://glitch.com/###+SUBDOMAIN_PRIVATE+VIRTUAL+MACHINE_NODEJS_AUTOMATICALLY+DEPLOY+TO+SERVER
-- https://webmaker.app/app/###+OFFLINE_PREPROCESSORS_SAVE+HTML+OR+OPEN+CODEPEN_MARKDOWN
+- https://css-tricks.com/forums/topic/codepen-jsfiddle-jsbin/#post-134290###..PROS.CONS
+- https://dabblet.com/###..AUTOPREFIX.CSS
+- https://esnextb.in/###..BROWSERIFY+CDN
+- https://glitch.com/###..SUBDOMAIN..PRIVATE.VM..NODEJS..AUTO.DEPLOY.TO.SERVER
+- https://jsbin.com/###..CLI
+- https://jsfiddle.net/
+- https://liveweave.com/###..LIVE.PREVIEW.EXT.LIBRARIES
+- https://plnkr.co/###..ADD.MULTIPLE.FILES..BACKEND
+- https://webmaker.app/app/###..OFFLINE.PREPROCESSORS..SAVE.HTML.OR.OPEN.CODEPEN..MARKDOWN
 - https://zeit.co/now###+
   - https://zeit.co/daschia
-  - https://zeit.co/guides/deploying-hugo-with-now/###+HUGO
+  - https://twitter.com/NotQuiteLeo###..HeadOfProduct@Vercel
+  - https://zeit.co/guides/deploying-hugo-with-now/###..hugo
 - https://github.com/remarkjs/remark
-- https://twitter.com/notquiteleo
 
 ------------------------------------------------------------------------
 
