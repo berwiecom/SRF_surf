@@ -1,6 +1,6 @@
-# SRF = surf the web
+# SURF = surf the web
 
-SRF: urls
+SURF: urls
 
 ---
 
